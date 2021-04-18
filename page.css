@@ -1,0 +1,50 @@
+body{
+  max-width: 1050px;
+  margin: 0 auto;
+}
+.class1 {
+  width: 1050px;
+  height: 90px;
+  background-color: #FC2847;
+}
+#text1 {
+line-height: 100px;
+margin-top: 0;
+}
+.class2{
+  padding-left: 4px;
+  margin: 0;
+  background-color: #FC2847
+}
+.class3{
+  background-color: #FC2847
+}
+
+#text2 {
+  display: inline;
+  position: relative;
+}
+#text3 {
+  display: inline;
+  position: relative;
+}
+.class4 {
+  background-color: #FC2847
+}
+.class5 {
+  background-color: #FC2847
+}
+.class6 {
+  background-color: #FC2847
+}
+.class7 {
+  padding-left: 18px;
+  background-color: #FC2847
+}
+.class8 {
+  float: none;
+}
+.class9 {
+  border-top: 5px solid #FC2847;
+  border-bottom: 5px solid #FC2847;
+}
